@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "521686728909",
+    "firebase_url": "https://crimson-abfb1.firebaseio.com",
+    "project_id": "crimson-abfb1",
+    "storage_bucket": "crimson-abfb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521686728909:android:735f7d063547331a",
+        "android_client_info": {
+          "package_name": "c.example.owner.crimson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521686728909-vvs2bjbnrocilc29vvf34uuauvcvsgdk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "c.example.owner.crimson",
+            "certificate_hash": "6c4e2e716e0fc8db4d762c7961f278dbb44198be"
+          }
+        },
+        {
+          "client_id": "521686728909-ipf9nljfv6tsr1iscocjmmtood3ph91k.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "521686728909-ipf9nljfv6tsr1iscocjmmtood3ph91k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbbPX0xQ67BXEHa65Rl6Mu_uUnjuFjd9M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521686728909-ipf9nljfv6tsr1iscocjmmtood3ph91k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
